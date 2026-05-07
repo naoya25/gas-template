@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.vscode/
+.claudia/
+.clasp.json
+.clasprc.json
+.DS_Store
+package-lock.json
