@@ -17,8 +17,8 @@ make init id=<scriptId>
 自動デプロイしなくて良いなら要りません
 
 
-`CLASP_JSON`: `.clasp.json` をそのまま登録
-`CLASPRC_JSON`: `~/.clasprc.json` に生成されているはず
+- `CLASP_JSON`: `.clasp.json` をそのまま登録
+- `CLASPRC_JSON`: `~/.clasprc.json` に生成されているはず
 
 ## 開発
 
