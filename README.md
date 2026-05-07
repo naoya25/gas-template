@@ -3,7 +3,12 @@
 ## セットアップ
 
 ```bash
-git clone https://github.com/naoya25/gas-template.git
+git clone https://github.com/naoya25/gas-template.git <your-project-name>
+```
+
+```bash
+cd <your-project-name>
+rm -rf .git
 make init id=<scriptId>
 ```
 
